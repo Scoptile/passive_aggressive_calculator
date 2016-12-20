@@ -9,8 +9,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import com.scoptile.util.Draw;
-import com.scoptile.util.program.Program;
+import scoptile.util.Draw;
+import scoptile.util.program.Program;
 
 public class Main extends Program {
 	private List<Button> buttons = new ArrayList<Button>();
