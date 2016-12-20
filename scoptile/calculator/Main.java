@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Random;
 
 import scoptile.util.Draw;
-import scoptile.util.program.Program;
+import scoptile.util.program.Program; 
 
 public class Main extends Program {
 	private List<Button> buttons = new ArrayList<Button>();
